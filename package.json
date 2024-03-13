@@ -1,0 +1,16 @@
+{
+  "name": "script-node-up-cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "linkedin-gen": "git+https://github.com/giuliomartinelli/linkedin-gen.git",
+    "node-cron": "^3.0.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
